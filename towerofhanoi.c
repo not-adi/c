@@ -13,4 +13,5 @@ void hanoi(int n, char rodfrom, char rodmiddle, char rodto) {
 
 int main() {
 hanoi(3, 'A', 'B', 'C');
-return 0; }
+return 0; 
+}
